@@ -10,6 +10,8 @@ body {
 .header{
   color: coral;
   font-size: 25px;
+  background-color: black;
+  text-align: center;
 }
 .start{
   text-decoration: underline;
@@ -23,7 +25,7 @@ body {
   background-color: grey;
   }
   .column {
-      width: 50%;
+      width: 40%;
 
       float: right;
       border: 2px solid coral;
@@ -31,6 +33,3 @@ body {
     margin: 20px;
     background-color: grey;
     }
-.image{
-    background-image: image("moi.jpeg");
-}
