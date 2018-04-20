@@ -1,0 +1,15 @@
+.center{
+ text-align: center;
+}
+body {
+  background-color: grey;
+  font-family: serif ;
+  font-size: 19px;
+}
+.header{
+  color: coral;
+  font-size: 25px;
+}
+.start{
+  text-decoration: underline;
+}
