@@ -5,6 +5,7 @@ body {
   background-color: grey;
   font-family: serif ;
   font-size: 19px;
+
 }
 .header{
   color: coral;
@@ -14,10 +15,19 @@ body {
   text-decoration: underline;
 }
 .sidebar {
-  width: 30%;
- float: right;
+  width: 40%;
+ float:left;
     border: 2px solid coral;
   padding: 6px;
   margin: 20px;
   background-color: grey;
   }
+  .column {
+      width: 50%;
+
+      float: right;
+      border: 2px solid coral;
+    padding: 6px;
+    margin: 20px;
+    background-color: grey;
+    }
