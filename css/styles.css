@@ -3,15 +3,21 @@
 }
 body {
   background-color: grey;
-  font-family: "Times New Roman", Times,serif;
+  font-family: serif ;
   font-size: 19px;
 }
 .header{
-  background-color: black;
-  text-align: center;
   color: coral;
   font-size: 25px;
 }
 .start{
   text-decoration: underline;
 }
+.sidebar {
+  width: 30%;
+ float: right;
+    border: 2px solid coral;
+  padding: 6px;
+  margin: 20px;
+  background-color: grey;
+  }
