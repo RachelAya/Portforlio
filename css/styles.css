@@ -3,10 +3,12 @@
 }
 body {
   background-color: grey;
-  font-family: serif ;
+  font-family: "Times New Roman", Times,serif;
   font-size: 19px;
 }
 .header{
+  background-color: black;
+  text-align: center;
   color: coral;
   font-size: 25px;
 }
