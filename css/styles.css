@@ -1,11 +1,14 @@
 .center{
  text-align: center;
+ color: black;
 }
 body {
  background-color: grey;
   font-family: serif ;
   font-size: 19px;
-
+ background-image: url(https://lh3.googleusercontent.com/Ypw3Jik7aNFby9YIlirn_6jG5xfVnkiWIfTNljl60otaWVGhLAoP0Ogqg0b6JnNOKx-zSnYT-Li-_Vkae3cX5bIwBeIOE2wTBhhYOmweVbRX6nRY912Z0xeAQpZID9DungkEbQ-MbY0W2QadbuJsR_bcrNks_SBiIufyZp1ZTS2-EW5BgQ4eUa36sbpFZFoa_AnBYv-h_pmfRtidLl7S_MqwB-QwkqZuDEADrByWoSjdXdMNXSM6LsEN3mAWbJm8okvNj-px1J62XTYFS2MjGUL1JrQeRjRIYOTUKz1DnoFVDtn8UvbHTr2HL4Qh8nAN7AZrpfHdYgfOLOgDSBeGRmPqkTMyAxTgXFAj9CsY2pnlvRc5SraYPv14IHbIwOVkf0Em9gK9IqEXtJVCT6kC7Dz7IUiawoA_X96C5o1bsmtN46LWbQtprzWbj-bTsm7Yb751SmZiOIjcZlf4v7WV6Y5pMa1quo9weOu7GHD1zU8DHEjupwcHfdSS8hKI1gMXcUeOlrmstI2UziaWuUUmb65bYUeb1PWvocgH8nr2AOjD_hAl020NJQUCtSmttXhWdlyAuA4WseD-6Shi5d1faHJrwI8CAwuU2MyLw7Fs=w453-h804-no);
+background-repeat: no-repeat;
+background-position: center;
 
 }
 .header{
@@ -14,28 +17,11 @@ body {
   background-color: black;
   text-align: center;
 }
-.start{
-  text-decoration: underline;
-}
-.sidebar {
-  width: 40%;
- float:left;
+.column {
+    width: 100%;
+    float: left;
     border: 2px solid coral;
-  padding: 6px;
-  margin: 20px;
-  background-color: grey;
-  }
-  .column {
-      width: 40%;
-
-      float: right;
-      border: 2px solid coral;
     padding: 6px;
-    margin: 20px;
+    margin: 8px;
     background-color: grey;
-    }
-    .image{
-      background-image: url(https://lh3.googleusercontent.com/v_OmLcsIwebVoB55DVjPLHGjHewbNbFrMVh4HjsSREHQ0Y9MsjQMQZtRDvsagWEKfIf5pc_Es0lK5c46bOj5gjHXkd34LGM0TetFIb7d3STetB6X6dXlb0k4M_eqLSI2HCYTFg5EpiRW_k-1iG0w_gFwUdepxOzIvgoqcPTJc8syEgzmuVQEAOY3jUeR71lr_Bv8cCiJiVCkSjDLFjzRcvgwYAl0WDhKuCanXj-zBYoGa9wwQOT62wm6Iz1UIylnggr-ydx_hXSfeor3FrD2U7x8w2ycwhxlVFQSZl-FuzJi0Ojtz9LkZUAU4jRwLOFp1tuwWUfkJ6cqPnSt03Ph-7SPal3qNmLBHh4dPy_9IOFBkKMda6PtockfKQ_o0FZfRAHo8bbE1JcBNYhdzN5hmUAMhYWqIwgRW97MiayTEiVGwgDWguEnc-xfG1CTORV1-zuHGVpX45--HiH5K0SBPDwB2RxdQZtDdml7pv77MjoGlgeUYvAkDZ-bmcZE55oVXeUFdrgoXgU8jjp4aJpdl-PWTHU4RTHstBViK2MMi7s0pS4wf-cgMomod_tWysrXKxJCuojNvtkLm6e4Ly6vFzUnSaaXHpQqQ73hdSI=w546-h410-no);
-      background-repeat: no-repeat;
-      background-size: cover;
     }
