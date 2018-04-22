@@ -8,7 +8,8 @@ This is a portofolio website. It contains information about me, my skills, proje
 * then click on Portfolio to get all my other information
 * finally if you want to get in contact click on contact and the page that will open contains all my contact
 ## Known Bugs
-At the moment there are no known bugs
+At the moment the website works best on google chrome because that is where the image include in the website is visible.
+Other than that there are no known bugs
 ## Technologies Used
 The languages used were HTML and CSS
 ## Support and contact details
